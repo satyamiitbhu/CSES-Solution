@@ -1,7 +1,7 @@
 
 #include <bits/stdc++.h>
 using namespace std;
-
+// bndi bndi bndi
 #define int long long
 #define ll long long
 #define ld long double
