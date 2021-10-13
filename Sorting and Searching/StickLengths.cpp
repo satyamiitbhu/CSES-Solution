@@ -1,6 +1,7 @@
 
 #include <bits/stdc++.h>
 // #include<iostream.h>
+// accept krle bhai
 
 using namespace std;
 
